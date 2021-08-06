@@ -1,6 +1,6 @@
 # Sql_lite_surf_up
 ## Overview
-Sql_lite, Sql_alchemy, and solving git hub push problems.
+Flask, Sql_lite, Sql_alchemy, and solving git hub push problems.
 
 A temperature comparison of June vs Dec in Hawaii to a client who would like to open a surf shop. 
 
