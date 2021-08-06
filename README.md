@@ -4,6 +4,21 @@ Flask, Sql_lite, Sql_alchemy, and solving git hub push problems.
 
 A temperature comparison of June vs Dec in Hawaii to a client who would like to open a surf shop. 
 
+## Code Snapshot
+
+<img width="1211" alt="Screen Shot 2021-08-06 at 10 42 21 AM" src="https://user-images.githubusercontent.com/14239715/128528268-c4c59b4d-6c78-4463-8250-74ae44b67686.png">
+
+![Up<img width="668" alt="Screen Shot 2021-08-06 at 10 41 43 AM" src="https://user-images.githubusercontent.com/14239715/128528013-f6424182-726d-4e96-bb7d-66f1303f982f.png">
+
+<img width="1207" alt="Screen Shot 2021-08-06 at 10 41 34 AM" src="https://user-images.githubusercontent.com/14239715/128528020-db8ffc4b-a7e5-40b3-9b80-0d09dfd80753.png">
+
+
+Flask code:
+
+<img width="816" alt="Screen Shot 2021-08-06 at 10 38 42 AM" src="https://user-images.githubusercontent.com/14239715/128528030-26a85af9-058b-4146-9018-1d7b95f5ad6b.png">
+
+
+
 ## Results
 <p float="left">
   <img src="https://user-images.githubusercontent.com/14239715/121833493-7979fe00-cc9a-11eb-8b20-ccf43d76035c.png" width="300"/>
