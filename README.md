@@ -1,6 +1,12 @@
 # Sql_lite_surf_up
 ## Overview
-Flask, Sql_lite, Sql_alchemy, and solving git hub push problems.
+<ol>
+<li>Flask: Python API that allows building of web-applications.</li>
+<li>Sql_lite:a C-language library that implements a small fast self-contained, high-reliability, full-features SQL Database.</li>
+<li>Sql_alchemy: Python SQL toolkit and Object Relational Mapper giving application developers full power and flexibility of SQL.</li>
+and solving git hub push problems.
+</ol>
+
 
 A temperature comparison of June vs Dec in Hawaii to a client who would like to open a surf shop. 
 
