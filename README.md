@@ -1,4 +1,7 @@
 # Sql_lite_surf_up
+
+Would Hawaii's seasonality prevent it from being a wise investment for vacation industry, specifically surfing industry. 
+
 ## Overview
 <ol>
 <li>Flask: Python API that allows building of web-applications.</li>
@@ -40,7 +43,7 @@ Flask code:
 
 ## Summary
   
-Hawaii has a moderate climate where the temperature in winter varries little from the summer heat, in fact only 4°. Based on this data, it would be a great place to open a surf shop where seasonality shouldn't have a large impact on consumers. 
+Hawaii has a moderate climate where the temperature in winter varies little from the summer heat, in fact only 4°. Based on this data, it would be a great place to open a surf shop where seasonality shouldn't have a large impact on consumers. 
 
 It would be great to see the June and Dec comparison over time. A stacked bar with a year to year comparison would let us know if there is an annual temperature change trend. 
 
