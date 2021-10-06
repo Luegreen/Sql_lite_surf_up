@@ -2,7 +2,7 @@
 ## Overview
 <ol>
 <li>Flask: Python API that allows building of web-applications.</li>
-<li>Sql_lite:a C-language library that implements a small fast self-contained, high-reliability, full-features SQL Database.</li>
+<li>Sql_lite: C-language library that implements a small fast self-contained, high-reliability, full-features SQL Database.</li>
 <li>Sql_alchemy: Python SQL toolkit and Object Relational Mapper giving application developers full power and flexibility of SQL.</li>
 and solving git hub push problems.
 </ol>
